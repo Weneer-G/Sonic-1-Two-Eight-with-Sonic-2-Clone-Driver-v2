@@ -1,0 +1,6 @@
+	include "Clone Driver & Sounds/engine/Macros.asm"
+	include "Clone Driver & Sounds/Sound IDs.asm"
+	include "Clone Driver & Sounds/Settings.asm"
+	include "Clone Driver & Sounds/engine/RAM.asm"
+	include "Clone Driver & Sounds/engine/Constants.asm"
+	include "Clone Driver & Sounds/engine/_smps2asm_inc.asm"
